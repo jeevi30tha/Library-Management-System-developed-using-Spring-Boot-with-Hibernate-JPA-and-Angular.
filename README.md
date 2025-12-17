@@ -10,3 +10,7 @@ A full-stack Library Management System developed using Angular (Frontend) and Sp
   b.Downloads all required dependencies
   c.Creates the node_modules folder
   d.Generates package-lock.json
+
+librarymanagementfrontend.zip-----Angular part(frontend)
+librarymanagement.zip-------Backend part(springboot)
+  
